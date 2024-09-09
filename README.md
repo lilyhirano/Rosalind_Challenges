@@ -1,2 +1,6 @@
 # Rosalind_Challenges
-Completing bioinformatics projects on the Rosalind platform using Python. 
+
+***
+
+## Description
+Completing projects on the [Rosalind Bioinformatics Stronghold](https://rosalind.info/problems/list-view/) path using Python. 
